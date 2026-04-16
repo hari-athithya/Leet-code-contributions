@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1848-minimum-distance-to-the-target-element](https://github.com/hari-athithya/Leet-code-contributions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3488-closest-equal-element-queries](https://github.com/hari-athithya/Leet-code-contributions/tree/master/3488-closest-equal-element-queries) |
 ## Hash Table
 |  |
