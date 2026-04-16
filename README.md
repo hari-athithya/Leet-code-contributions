@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/hari-athithya/Leet-code-contributions/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/hari-athithya/Leet-code-contributions/tree/master/3488-closest-equal-element-queries) |
+## Hash Table
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/hari-athithya/Leet-code-contributions/tree/master/3488-closest-equal-element-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/hari-athithya/Leet-code-contributions/tree/master/3488-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
